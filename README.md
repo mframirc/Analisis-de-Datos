@@ -1,3 +1,4 @@
 # Analisis-de-Datos
 Este repositorio tiene como objetivo, publicar proyectos de fundamentos análisis de datos
-![IMG_1718](https://github.com/user-attachments/assets/5145e26f-219b-45fa-8c8f-f52e5fec76fc)
+
+<img width="1024" height="1536" alt="IMG_3799" src="https://github.com/user-attachments/assets/67fb5f97-2f45-4782-a1dd-1236012ce033" />
