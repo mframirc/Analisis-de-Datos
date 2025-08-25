@@ -1,7 +1,7 @@
 Fundamentos de Analisis-de-Datos
 <img width="200" height="200" alt="IMG_3799" src="https://github.com/user-attachments/assets/81a222b9-fb0e-43f0-968e-920ad0986413" /> 
 
-Soy Mauricio Ramirez Cerda, en el camino del analisis de datos híbrido, con enfoque técnico-ejecutivo. Pretendo en especializarme en transformar hallazgos complejos en mensajes persuasivos y recomendaciones accionables para tomadores de decisión. 
+Soy Mauricio Ramirez Cerda, en el camino del analisis de datos híbrido, con enfoque técnico-ejecutivo. Pretendo especializarme en transformar hallazgos complejos en mensajes persuasivos y recomendaciones accionables para tomadores de decisión. 
 
 Combino conocimientos de Power BI, DAX ,SQL, R y Python con sensibilidad visual y narrativa , adaptando cada entrega al público objetivo con conclusiones claras, adaptadas a distintos niveles de profesionalismo.
 
