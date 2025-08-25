@@ -41,9 +41,13 @@ Conclusión
 Este proyecto puede ayudar para enfocar mejoras en políticas públicas, hacer campañas de educación previsional más efectivas y diseñar estrategias de segmentación apropiadas. 
 
 Lo que se encontró:
+
 •	Las personas entre 45 y 55 años son las que más retiran fondos, sobre todo en zonas urbanas.
+
 •	Las mujeres tienen una mayor proporción de retiro total (retira_100) que los hombres, lo que podría reflejar diferencias en cómo ahorran o acceden a sus fondos.
+
 •	El saldo acumulado (saldo_202212) varía bastante según la región, siendo más bajo en zonas extremas.
+
 •	La variable ind_cumple permite identificar grupos con condiciones especiales, mostrando diferencias en el uso del dinero y el saldo disponible.
    
 
