@@ -1,6 +1,9 @@
 Título del proyecto
+
 “Pesnsiones_IPS_202412”
+
  Introducción: 
+ 
 El sistema previsional chileno ha experimentado transformaciones profundas en las últimas décadas, pasando de un modelo de reparto administrado por el Estado a un sistema de capitalización individual. Sin embargo, una parte significativa de la población —especialmente adultos mayores, personas con invalidez y beneficiarios de sobrevivencia— continúa recibiendo pensiones bajo el régimen antiguo gestionado por el Instituto de Previsión Social (IPS).
 Objetivo del proyecto
 Este proyecto realiza un análisis exploratorio de los datos (EDA) de pensiones del sistema de reparto, con el objetivo de identificar patrones distributivos, brechas estructurales y oportunidades de mejora. Se examinan variables clave como el monto bruto de pensión (), sexo (), tipo de pensión () y región (), utilizando técnicas de visualización comparativa.
