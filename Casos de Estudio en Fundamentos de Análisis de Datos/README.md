@@ -1,6 +1,6 @@
 Casos de Estudio en Fundamentos de Análisis de Datos
 
-Reflexión: ((Lucileima Rosales, agosto 2025)
+Reflexión: (Profesora Lucileima Rosales, agosto 2025)
 
 Los datos se parecen a un libro que deseamos leer y comprender; cada fila y columna equivale a una página de información. Los valores faltantes, en cambio, son palabras borradas o fragmentos incompletos que pueden distorsionar la historia que los datos cuentan. Pasarlos por alto implica el riesgo de sacar conclusiones equivocadas, mientras que, tratarlos de manera adecuada —ya sea reemplazándolos con la media, mediana, moda o mediante técnicas más avanzadas como KNN— nos permite reconstruir esos fragmentos y tener una visión completa. Solo así podemos explorar los datos con seguridad e identificar patrones reales y tomar decisiones respaldadas por la información, asegurando que cada insight refleje fielmente lo que los datos intentan transmitir
 
