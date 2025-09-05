@@ -26,4 +26,4 @@ Los apartados que componen este documento son:
 
 •	Fundamentos de Business Intelligence
 
-Cada sección incluye ejemplos contextualizados, scripts documentados y visualizaciones orientadas a facilitar la interpretación ejecutiva. El enfoque transversal de storytelling visual permite conectar los hallazgos con decisiones concretas, fortaleciendo el valor estratégico del análisis.
+Cada apartado presenta la solución a los estudios de caso trabajados en las sesiones de los distintos módulos del curso Fundamentos de Análisis de Datos, junto con scripts documentados y visualizaciones diseñadas para facilitar la interpretación ejecutiva. El enfoque transversal de storytelling visual conecta los hallazgos con decisiones concretas, reforzando el valor estratégico del análisis.
